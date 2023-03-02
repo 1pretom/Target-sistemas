@@ -18,8 +18,3 @@ if (c === numero) {
 } else {
   console.log(numero+ " numero fora da sequência Fibonacci.");
 }
-
-
-
-/* Questão 4 */
-
